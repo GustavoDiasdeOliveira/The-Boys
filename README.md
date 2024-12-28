@@ -7,4 +7,4 @@ Usando HTML e CSS apenas!
 Visualização do projeto final:
 <br/>
 <br/>
-![Imagem](Projeto%20The%20Boys/foto.png)
+<img src="img/foto.png">
